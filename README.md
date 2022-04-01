@@ -18,4 +18,10 @@ Global supply chain in a post pandemic world
 06. https://umestentorg.com/point-of-view/sistemy-planirovaniya-cepochek-postavok-stanovyatsya-vse-bolee-intellektualnymi/, 
 	https://umestentorg.com/point-of-view/4-strategicheskix-sdviga-k-antixrupkosti-cepochki-postavok/,
 	https://umestentorg.com/point-of-view/cepochki-postavok-trendy-na-2021-god/,
-	https://umestentorg.com/point-of-view/postcovidnye-b2b-prodazhi-chto-izmenilos-navsegda/
+	https://umestentorg.com/point-of-view/postcovidnye-b2b-prodazhi-chto-izmenilos-navsegda/,
+	https://umestentorg.com/point-of-view/kak-konkurirovat-s-proryvnymi-cepochkami-postavok-3-podskazki/,
+	https://umestentorg.com/news/kak-sovremennye-texnologii-menyayut-zakupochnye-processy/,
+	https://umestentorg.com/point-of-view/roboty-v-zakupkax-kogda-oni-nuzhny/,
+	https://umestentorg.com/point-of-view/zakupki-i-koncepciya-industriya-4-0/,
+	https://umestentorg.com/point-of-view/trendy-kotorye-menyayut-zakupki-v-postkovidnuyu-epoxu/,
+	https://umestentorg.com/point-of-view/krizis-globalnoj-cepochki-postavok-konca-i-kraya-poka-ne-vidno/
