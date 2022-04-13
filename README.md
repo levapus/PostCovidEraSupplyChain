@@ -47,5 +47,23 @@ Global supply chain in a post pandemic world
 11. https://autogear.ru/article/413/348/tsep-postavok---eto-ponyatie-i-klassifikatsiya/
 12. https://www.generixgroup.com/ru/blog/krizis-covid-19-kak-pokazatel-nesovershenstva-modeley-cepochki-postavok
 13. https://share.america.gov/ru/%D0%BA%D0%B0%D0%BA-%D0%BC%D0%BE%D0%B3%D1%83%D1%82-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B8/
-	
-	
+14. https://www.forbes.ru/finansy-i-investicii/436949-deficit-chipov-prodlitsya-eshche-neskolko-let-kak-na-nem-zarabotat	
+15. https://www.forbes.ru/finansy-i-investicii/436949-deficit-chipov-prodlitsya-eshche-neskolko-let-kak-na-nem-zarabotat,
+	https://www.forbes.ru/biznes/438107-deficit-chipov-mozhet-privesti-k-padeniyu-na-7-9-mln-shtuk-v-2021-godu,
+	https://www.dw.com/ru/deficit-chipov-iz-azii-vyzval-krizis-v-mirovom-avtoprome/a-57217629,
+	https://trends.rbc.ru/trends/industry/60ed32189a7947381fb9771e,
+	https://www.vedomosti.ru/business/articles/2021/09/06/885394-defitsit-chipov-obrushil-prodazhi-novih-avtomobilei,
+	https://rg.ru/2021/09/05/pochemu-mir-uzhe-bolshe-goda-ne-mozhet-spravitsia-s-deficitom-mikroelektroniki.html,
+	https://meduza.io/feature/2021/03/29/tovary-dorozhayut-po-vsemu-miru-iz-za-konteynernogo-krizisa-mozhete-ubeditsya-prosto-zaydya-v-magazin-i-net-krizis-vyzval-ne-sevshiy-na-mel-ever-given,
+	https://www.bbc.com/russian/news-55950090,
+	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC_(2020%E2%80%942022)
+	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B7%D0%B8%D1%81_%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B8_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D0%BA_(2021%E2%80%942022)
+16. https://econs.online/articles/opinions/tsepochki-nedopostavok/ - good!
+17. https://www.generixgroup.com/ru/blog/chto-zhdet-cepochki-postavok-v-2021-godu-trendy-i-resheniya - good
+18. https://www.itweek.ru/mobile/article/detail.php?ID=218339 - good
+19. https://www.ey.com/ru_ru/consulting/how-to-build-a-supply-chain-thats-resilient-to-global-disruption - good
+20. https://officelife.media/article/money/28676-tseny-tsepochki-postavok-defolt-i-uoll-strit-skolko-prodlitsya-pokhmele-globalnoy-ekonomiki/
+21. https://econs.online/articles/ekonomika/novaya-globalizatsiya-vremya-zamedleniya/
+22. https://econs.online/articles/ekonomika/faza-razvertyvaniya-tsifrovoy-ekonomiki/
+23. 
+
